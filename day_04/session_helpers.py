@@ -1,4 +1,3 @@
-from mpl_toolkits.mplot3d import Axes3D
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 import matplotlib.pyplot as plt # plotting
 import numpy as np # linear algebra
